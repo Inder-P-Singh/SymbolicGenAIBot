@@ -25,7 +25,7 @@ How It Works
 Usage
 
 Setup
-1. Clone the repository: git clone https://github.com/Inder-P-Singh/symbolic-generative-ai-bot.git
+1. Clone the repository: git clone https://github.com/Inder-P-Singh/SymbolicGenAIBot
 2. Navigate to the project directory: cd symbolic-generative-ai-bot
 
 Running the Bot
