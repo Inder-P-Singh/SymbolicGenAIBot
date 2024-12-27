@@ -1,0 +1,60 @@
+{
+  "Entities": {
+    "GenerativeAI": {
+      "benefits": ["Creativity", "Automation", "Personalization"],
+      "uses": ["GANs", "Transformers", "Diffusion Models", "LLMs"],
+      "works": ["Processes data to generate outputs mimicking human-like creativity"],
+      "limitations": ["Bias", "High computational cost", "Ethical concerns"],
+      "examples": ["ChatGPT", "DALL-E", "MidJourney"]
+    },
+    "Datasets": {
+      "benefits": ["Improved accuracy", "Wide applicability"],
+      "uses": ["Training AI models", "Validating GenerativeAI outputs"],
+      "works": ["Provides labeled/unlabeled data for training and evaluation"],
+      "limitations": ["Bias", "Limited availability", "Privacy concerns"],
+      "examples": ["ImageNet", "COCO", "LAION-5B"]
+    },
+    "LLMs": {
+      "benefits": ["Contextual understanding", "Language generation"],
+      "uses": ["Text generation", "Translation", "Summarization"],
+      "works": ["Processes large datasets to learn language patterns"],
+      "limitations": ["High resource demand", "Hallucination of facts"],
+      "examples": ["GPT-4", "BERT", "Claude"]
+    },
+    "Diffusion Models": {
+      "benefits": ["High-quality image synthesis", "Flexibility"],
+      "uses": ["Text-to-Image generation", "Image editing"],
+      "works": ["Iteratively denoises random data to generate meaningful images"],
+      "limitations": ["Slow generation time", "High computational cost"],
+      "examples": ["Stable Diffusion", "DALL-E 2"]
+    },
+    "GANs": {
+      "benefits": ["Realistic outputs", "Data augmentation"],
+      "uses": ["Image generation", "Video synthesis"],
+      "works": ["Two networks (Generator and Discriminator) compete to improve output realism"],
+      "limitations": ["Mode collapse", "Training instability"],
+      "examples": ["Artbreeder", "StyleGAN"]
+    },
+    "Transformers": {
+      "benefits": ["Efficiency", "Parallel processing", "Scalability"],
+      "uses": ["Natural Language Processing", "Text-to-Image generation"],
+      "works": ["Uses self-attention mechanisms to weigh input importance"],
+      "limitations": ["High memory usage", "Dependence on large datasets"],
+      "examples": ["GPT-3", "ViT (Vision Transformer)"]
+    },
+    "Applications": {
+      "benefits": ["Enhanced creativity", "User engagement", "Automation"],
+      "uses": ["GenerativeAI for real-world tasks"],
+      "works": ["Integrates GenerativeAI into end-user systems"],
+      "limitations": ["Misuse potential", "Dependence on datasets"],
+      "examples": ["ChatGPT", "DALL-E", "RunwayML"]
+    },
+    "Ethics": {
+      "benefits": ["Fairness", "Transparency", "User trust"],
+      "uses": ["Guiding responsible AI development"],
+      "works": ["Defines principles and policies for ethical AI"],
+      "limitations": ["Ambiguity", "Subjectivity", "Lack of enforcement"],
+      "examples": ["AI governance frameworks", "Ethical guidelines by AI organizations"]
+    }
+  }
+}
